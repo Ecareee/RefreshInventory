@@ -32,7 +32,7 @@ public class InventoryRefresher {
 
     /**
      * copy of
-     * <a href="https://github.com/Fallen-Breath/tweakermore/blob/stable/src/main/java/me/fallenbreath/tweakermore/impl/features/refreshInventory/InventoryRefresher.java">TwekeakerMore</a>
+     * <a href="https://github.com/Fallen-Breath/tweakermore/blob/stable/src/main/java/me/fallenbreath/tweakermore/impl/features/refreshInventory/InventoryRefresher.java">TweakerMore</a>
      */
     public static void refresh() {
         MinecraftClient mc = MinecraftClient.getInstance();
